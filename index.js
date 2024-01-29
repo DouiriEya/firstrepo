@@ -9,3 +9,14 @@ function predictsign(x,y){
         return p*-1
     }
 }
+function addtotable(x){
+    var tab=[]
+    if (typeof(x)=='number' && x>0){
+        tab.push(x)
+       
+    } 
+    else {
+        console.log('sorry not happening ')
+    }
+    return tab
+}
