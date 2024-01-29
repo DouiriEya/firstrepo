@@ -1,0 +1,22 @@
+web development is getting to develp websites in a way to help the user and serve him online.
+Web development can be devided to two main parts :
+ 1.front end 
+ 2.back end 
+working with two interfaces makes web development so essential nowadays simply because it translates the user's needs to code
+and actual working site ready to be used .
+
+
+HTML stands for Hyper Text Markup Language.
+HTML is used to create web pages.
+
+to be honest i'am not that familiar with css but i think it works with HTML because some features are "limited" in HTML
+so for more complicated featuresso css and javascript be combined with HTML
+
+
+javascript is a programming Language and it's one of the most used languages for client-side web developement 
+
+
+i don't know what node.js is tbh:) 
+
+
+
